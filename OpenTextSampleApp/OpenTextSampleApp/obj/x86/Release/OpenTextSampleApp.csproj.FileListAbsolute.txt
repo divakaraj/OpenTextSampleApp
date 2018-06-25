@@ -1,0 +1,9 @@
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Release\OpenTextSampleApp.exe.config
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Release\OpenTextSampleApp.exe
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Release\OpenTextSampleApp.pdb
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Release\OpenTextSampleApp.exe
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Release\OpenTextSampleApp.pdb
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Release\OpenTextSampleApp.exe.manifest
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Release\OpenTextSampleApp.application
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Release\OpenTextSampleApp.exe.manifest
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Release\OpenTextSampleApp.application

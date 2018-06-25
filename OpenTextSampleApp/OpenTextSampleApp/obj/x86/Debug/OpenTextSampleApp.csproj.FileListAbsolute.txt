@@ -1,0 +1,15 @@
+c:\users\divakar\documents\visual studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.exe.config
+c:\users\divakar\documents\visual studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.exe
+c:\users\divakar\documents\visual studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.pdb
+c:\users\divakar\documents\visual studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.exe
+c:\users\divakar\documents\visual studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.pdb
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.exe.config
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.exe
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.pdb
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.exe
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.pdb
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.exe.manifest
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\bin\Debug\OpenTextSampleApp.application
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.exe.manifest
+C:\Users\divakar.m\Documents\Visual Studio 2010\Projects\OpenTextSampleApp\OpenTextSampleApp\obj\x86\Debug\OpenTextSampleApp.application

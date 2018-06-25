@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OpenTextSampleApp.exe" version="1.0.0.0" publicKeyToken="619c0b4ef73e2454" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OpenTextSampleApp" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="OpenTextSampleApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenTextSampleApp.exe" size="15360">
+      <assemblyIdentity name="OpenTextSampleApp" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MK06Tjuy9n+pi4fFDvCFBZwdF+Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="OpenTextSampleApp.exe.config" size="1242">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+Yj58M/SR8ttW0b7VPnwM6i6DpI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ODESSAPDC01\divakar.m" issuerKeyHash="e821840036ce2dbe7351b653fbf696f106d9bf3c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ajef9pSKM/1YqZO60gpOnLdCu4M=</DigestValue></Reference></SignedInfo><SignatureValue>ONJXIOx0zzZncXdXlNbp2DKb+2buZ6p1sU23fjVJ+b7wdpvOcsWD36gJYZ7MGxFE68CpDmUv3ufKsGrkoULoUrcOnskrRTcmxdIgxkDbCucaxXMOXw9ankysmekwnq2jIWXSCO5IXtPyt9lLKI4YcK1NVjBq9exh/s7knq7UEaE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zxde4NlFzPexdyDi7dbSthR+1a55AktLgdbmFn7B5CX9BImyUDKR/i3VWfk5ldCjMgpO5J7aTke0mZQPf/ElMK2AJ1/PpKg9iF/dbQq7BmMx0Z8pIObhtXc5L/mBPVda8wkWITkU32BUkWOXMWzzDRmo05fejnkzCDYaqNg4wdU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="83bb42b79c4e0ad2ba93a958fd338a94f69f3702" Description="" Url=""><as:assemblyIdentity name="OpenTextSampleApp.exe" version="1.0.0.0" publicKeyToken="619c0b4ef73e2454" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ODESSAPDC01\divakar.m</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>tZqkppDFpF8/x6MT8KOyioVFtb4=</DigestValue></Reference></SignedInfo><SignatureValue>wvjK2OeujGK/k3ew7RlnSXaGfHj7LlmjdDDkODBptFesApemBootqgVgGoMhhRqudIbS5WLWwYv7QpBsgVf/W+2raJ7wcxdN+GIVxz10fuZ/KCBd6QuQl3Sn0NwfbBD8A/Kr9je7CIt0cgPjDpiugE1pABqxCrbE0fBeVOEQWEE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zxde4NlFzPexdyDi7dbSthR+1a55AktLgdbmFn7B5CX9BImyUDKR/i3VWfk5ldCjMgpO5J7aTke0mZQPf/ElMK2AJ1/PpKg9iF/dbQq7BmMx0Z8pIObhtXc5L/mBPVda8wkWITkU32BUkWOXMWzzDRmo05fejnkzCDYaqNg4wdU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQIJsDfU0vl59H27TngyFqbTANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioATwBEAEUAUwBTAEEAUABEAEMAMAAxAFwAZABpAHYAYQBrAGEAcgAuAG0wHhcNMTgwNjE1MTQzNzEzWhcNMTkwNjE1MjAzNzEzWjA1MTMwMQYDVQQDHioATwBEAEUAUwBTAEEAUABEAEMAMAAxAFwAZABpAHYAYQBrAGEAcgAuAG0wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM8XXuDZRcz3sXcg4u3W0rYUftWueQJLS4HW5hZ+weQl/QSJslAykf4t1Vn5OZXQozIKTuSe2k5HtJmUD3/xJTCtgCdfz6SoPYhf3W0KuwZjMdGfKSDm4bV3OS/5gT1XWvMJFiE5FN9gVJFjlzFs8w0ZqNOX3o55Mwg2GqjYOMHVAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAgRmbFRSKEe23Mkr6U5l4s/f4m+ujvzCYWJpXucJMNwm/a83O+18bbsV/wDIBQpCg1Y99ij3l+Sw/LHUzh/pIj6uQvCfH0pT0fIz3n2UrrCE7k9VwxWJVhBj+BEqnpYFh1QzKuT+jr7Puhxvx/J0ARH3Lb1ow2Ut9gRbxsRwESbI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
